@@ -1,0 +1,10 @@
+
+yfinance
+pandas
+matplotlib
+fpdf2
+requests
+textblob
+python-dotenv
+streamlit
+Pillow
