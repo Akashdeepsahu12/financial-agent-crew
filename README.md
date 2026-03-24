@@ -1,4 +1,4 @@
-# AI Financial Analyst - Code Summary
+# AI Financial Analyst
 
 ## Description
 
